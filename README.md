@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EAFB4&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Anbasss!+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/anbasss/anbasss/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anbasss&label=Profile%20views&color=2eafb4&style=flat" alt="Profile views" />
