@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 ```python
-class Anbasss:
+class Anbas:
     def __init__(self):
-        self.name = "Anbasss"
+        self.name = "Anbas"
         self.role = "Software Developer"
         self.languages = ["JavaScript", "Python", "HTML", "CSS"]
         self.learning = ["React", "Node.js", "Express", "Cloud Computing"]
